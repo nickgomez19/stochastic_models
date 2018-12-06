@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543083681152.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1D5B10C1",
+    "lastKnownWriteTime" : 2317443265767497520,
+    "last_content_update" : 1543083681152,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6F77E8E",
+        "caption" : "price_by_year",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=price_by_year&cache_key=6F77E8E",
+        "displayedObservations" : 22,
+        "environment" : "",
+        "object" : "price_by_year",
+        "preview" : 0,
+        "totalObservations" : 22,
+        "variables" : 1
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
